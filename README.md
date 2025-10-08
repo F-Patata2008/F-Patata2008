@@ -25,10 +25,10 @@
 <h2 align="center"> Stats of GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=f-patata2008&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=f-patata2008&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=f-patata2008&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=f-patata2008&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <!-- Added &cache_bust=1 to the end of the URL to trick GitHub's cache -->
-  <img src="https://streak-stats.demolab.com/?user=f-patata2008&theme=tokyonight&cache_bust=1" alt="GitHub Streak" />
+  <!-- This is the new, more reliable URL for the streak stats -->
+  <img src="https://github-readme-streak-stats.vercel.app/?user=f-patata2008&theme=tokyonight" alt="GitHub Streak" />
 </p>
