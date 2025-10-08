@@ -22,13 +22,13 @@
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<h2 align="center"> Stats of GitHub</h2>
+<h2 align-center">Stats of GitHub</h2>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=f-patata2008&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=f-patata2008&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=f-patata2008&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=f-patata2008&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <!-- This is the new, more reliable URL for the streak stats -->
-  <img src="https://github-readme-streak-stats.vercel.app/?user=f-patata2008&theme=tokyonight" alt="GitHub Streak" />
+  <!-- This is the correct URL with a new cache-buster to force GitHub to refresh -->
+  <img src="https://streak-stats.demolab.com/?user=f-patata2008&theme=tokyonight&cache_bust=123" alt="GitHub Streak" />
 </p>
