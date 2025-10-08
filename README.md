@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Colli</h1>
 <h3 align="center">A chilean rando who likes Linux, Gundam and C++</h3>
 
-<img src="images/Patata.gif" alt="A cool gif" align="right" width="150" />
+<img src="images/Patata2.gif" alt="A cool gif" align="right" width="150" />
 
 - 🔭 I’m currently studying **(im in 4°to Medio)**
 - 🌱 I’m currently learning **Competive Programming**
