@@ -29,6 +29,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=f-patata2008&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <!-- This is the corrected URL for the streak stats -->
-  <img src="https://streak-stats.demolab.com/?user=f-patata2008&theme=tokyonight" alt="GitHub Streak" />
+  <!-- Added &cache_bust=1 to the end of the URL to trick GitHub's cache -->
+  <img src="https://streak-stats.demolab.com/?user=f-patata2008&theme=tokyonight&cache_bust=1" alt="GitHub Streak" />
 </p>
