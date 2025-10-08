@@ -9,6 +9,7 @@
 - 👽 Im also a member of [Fisex](https://github.com/in-fisicaexp)
 - ⚡ Fun fact **I use Arch BTW, and I like Mecha**
 - 😊 Follow Fisex on [Instagram](https://instagram.com/fisicaexp.in)
+- 🤯 Im Bored with classes
 
 <br clear="both"/>
 
