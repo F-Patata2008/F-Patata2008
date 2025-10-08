@@ -8,6 +8,7 @@
 - 😎 I maintain my [DotFiles](https://github.com/F-Patata2008/DotFiles-New.git)
 - 👽 Im also a member of [Fisex](https://github.com/in-fisicaexp)
 - ⚡ Fun fact **I use Arch BTW, and I like Mecha**
+- Follow Fisex on [ig](https://instagram.com/fisicaexp.in)
 
 <br clear="both"/>
 
