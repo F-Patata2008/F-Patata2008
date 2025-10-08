@@ -30,5 +30,5 @@
 </p>
 <p align="center">
   <!-- This is the correct URL with a new cache-buster to force GitHub to refresh -->
-  <img src="https://streak-stats.demolab.com/?user=f-patata2008&theme=tokyonight&cache_bust=123" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=f-patata2008&theme=tokyonight&cache_bust=123" alt="GitHub Streak" />
 </p>
