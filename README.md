@@ -24,8 +24,11 @@
 
 <h2 align="center"> Stats of GitHub</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=f-patata2008&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="f-patata2008" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f-patata2008&show_icons=true&theme=tokyonight&locale=en" alt="f-patata2008" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f-patata2008&theme=tokyonight" alt="f-patata2008" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=f-patata2008&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=f-patata2008&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <!-- This is the corrected URL for the streak stats -->
+  <img src="https://streak-stats.demolab.com/?user=f-patata2008&theme=tokyonight" alt="GitHub Streak" />
+</p>
