@@ -25,7 +25,8 @@
 <h3 align="left">My Spotify Playlist:</h3>
 <p align="left">
   <a href="https://open.spotify.com/playlist/217GRfBpH3XssarZblg6OQ">
-    <img src="https://spotify-playlist-card.vercel.app/api?playlist_url=https://open.spotify.com/playlist/217GRfBpH3XssarZblg6OQ&theme=tokyonight" alt="Felipe's Spotify Playlist" />
+    <!-- This is a new, working service for generating the playlist card -->
+    <img src="https://spotify-now-playing-cards.vercel.app/api/card?playlistId=217GRfBpH3XssarZblg6OQ&theme=tokyonight" alt="Felipe's Spotify Playlist" />
   </a>
 </p>
 
