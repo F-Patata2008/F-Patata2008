@@ -10,7 +10,7 @@
 - ⚡ Fun fact **I use Arch BTW, and I like Mecha**
 - 😊 Follow Fisex on [Instagram](https://instagram.com/fisicaexp.in)
 - 🤯 Im Bored with classes
-- My playlist for coding [Alt](https://open.spotify.com/playlist/217GRfBpH3XssarZblg6OQ)
+- 😝 My playlist for coding [Alt](https://open.spotify.com/playlist/217GRfBpH3XssarZblg6OQ)
 
 <br clear="both"/>
 
