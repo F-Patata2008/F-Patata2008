@@ -6,7 +6,7 @@
 - 🔭 I’m currently studying **(im in 4°to Medio)**
 - 🌱 I’m currently learning **Competive Programming**
 - 😎 I maintain my [DotFiles](https://github.com/F-Patata2008/DotFiles-New.git)
-- 👽 Im also a member of [Fisex](https://github.com/in-fisicaexp)
+- 👽 Im also a member of [Fisex](https://github.com/Academia-de-Fisica-Experimental-IN)
 - ⚡ Fun fact **I use Arch BTW, and I like Mecha**
 - 😊 Follow Fisex on [Instagram](https://instagram.com/fisicaexp.in)
 - 🤯 Im Bored with classes
