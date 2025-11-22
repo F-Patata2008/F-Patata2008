@@ -43,7 +43,17 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
   
-  <!-- Linux -->
+  <!-- Arch Linux (The good stuff) -->
+  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/>
+  </a>
+
+  <!-- Hyprland -->
+  <a href="https://hyprland.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/icon.svg" alt="hyprland" width="40" height="40"/>
+  </a>
+
+  <!-- Generic Linux (You can delete this block if Arch is enough) -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
@@ -53,7 +63,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
 
-  <!-- Neovim (Added) -->
+  <!-- Neovim -->
   <a href="https://neovim.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/500px-Neovim-mark.svg.png" alt="neovim" width="40" height="40"/>
   </a>
