@@ -3,11 +3,11 @@
 
 <img src="images/Patata2.gif" alt="A cool gif" align="right" width="150" />
 
-- 🔭 I’m currently studying **(im in 4°to Medio)**
+- 🔭 I’m currently studying **(in 2 weeks I graduate High School)**
 - 🌱 I’m currently learning **Competive Programming**
 - 😎 I maintain my [DotFiles](https://github.com/F-Patata2008/DotFiles-New.git)
 - 👽 Im also a member of [Fisex](https://github.com/Academia-de-Fisica-Experimental-IN)
-- ⚡ Fun fact **I use Arch BTW, and I like Mecha**
+- ⚡ Fun fact **I use Arch BTW, Hyprland, Neovim, and I like Mecha**
 - 😊 Follow Fisex on [Instagram](https://instagram.com/fisicaexp.in)
 - 🤯 Im Bored with classes
 - 😝 My playlist for coding [Alt](https://open.spotify.com/playlist/217GRfBpH3XssarZblg6OQ)
@@ -27,40 +27,35 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
   <!-- Arduino -->
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  </a>
+
   <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+
   <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  
-  <!-- Arch Linux (The good stuff) -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+
+  <!-- Arch Linux -->
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/>
   </a>
 
-  <!-- Hyprland -->
+  <!-- Hyprland (Fixed Link) -->
   <a href="https://hyprland.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/icon.svg" alt="hyprland" width="40" height="40"/>
+    <img src="https://github.com/hyprwm.png?size=200" alt="hyprland" width="40" height="40"/>
   </a>
 
-  <!-- Generic Linux (You can delete this block if Arch is enough) -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  
   <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 
   <!-- Neovim -->
