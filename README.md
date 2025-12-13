@@ -3,7 +3,7 @@
 
 <img src="images/Patata2.gif" alt="A cool gif" align="right" width="150" />
 
-- 🔭 I’m currently studying **(in less than a week I graduate High School)**
+- 🔭 I’m a High School Graduate
 - 🌱 I’m currently learning **Competive Programming**
 - 😎 I maintain my [DotFiles](https://github.com/F-Patata2008/DotFiles-New.git)
 - 👽 Im also a member of [Fisex](https://github.com/Academia-de-Fisica-Experimental-IN)
