@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Felipe Colli</h1>
-<h3 align="center">A chilean rando who likes Linux, Gundam and C++</h3>
+<h3 align="center">A Chilean rando who likes Linux, Gundam, and C++</h3>
 
+<!-- Asegúrate de que la carpeta 'images' exista en tu repo -->
 <img src="images/Patata2.gif" alt="A cool gif" align="right" width="150" />
 
-- 🔭 I’m a Ex-Institutano **(Gen 2025, last all male Gen)**
-- 🌱 I’m currently learning **Competive Programming**
+- 🔭 I’m an **Ex-Institutano (Gen 2025, last all-male Gen)**
+- 🌱 I’m currently learning **Competitive Programming**
 - 😎 I maintain my [DotFiles](https://github.com/F-Patata2008/DotFiles-New.git)
-- 👽 Im also a member of [Fisex](https://github.com/Academia-de-Fisica-Experimental-IN)
-- ⚡ Fun fact **I use Arch BTW, Hyprland, Neovim, and I like Mecha**
+- 👽 I'm also a member of [Fisex](https://github.com/Academia-de-Fisica-Experimental-IN)
+- ⚡ Fun fact: **I use Arch BTW, Hyprland, Neovim, and I like Mecha**
 - 😊 Follow Fisex on [Instagram](https://instagram.com/fisicaexp.in)
-- 🤯 Im Bored with classes
-- 😝 My playlist for coding [Alt](https://open.spotify.com/playlist/217GRfBpH3XssarZblg6OQ)
+- 🤯 I'm bored with classes
+- 😝 My playlist for coding: [Alt](https://open.spotify.com/playlist/217GRfBpH3XssarZblg6OQ)
 
 <br clear="both"/>
 
@@ -48,7 +49,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/>
   </a>
 
-  <!-- Hyprland (Fixed Link) -->
+  <!-- Hyprland -->
   <a href="https://hyprland.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/hyprwm.png?size=200" alt="hyprland" width="40" height="40"/>
   </a>
@@ -64,12 +65,11 @@
   </a>
 </p>
 
-
-<h2 align="center">Stats of GitHub</h2>
+<h2 align="center">Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=f-patata2008&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_bust=20251101" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=f-patata2008&show_icons=true&theme=tokyonight&locale=en&cache_bust=20251101" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=f-patata2008&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_bust=20251101&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=f-patata2008&show_icons=true&theme=tokyonight&locale=en&cache_bust=20251101&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=f-patata2008&theme=tokyonight&cache_bust=20251101" alt="GitHub Streak" />
