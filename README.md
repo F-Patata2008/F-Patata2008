@@ -6,11 +6,11 @@
 
 - 🔭 I’m an **Ex-Institutano (Gen 2025, last all-male Gen)**
 - 🌱 I’m currently learning **Competitive Programming**
-- 😎 I maintain my [DotFiles](https://github.com/F-Patata2008/DotFiles-New.git)
+- 😎 I maintain my [DotFiles](https://github.com/F-Patata2008/DotFiles-New)
 - 👽 I'm also a member of [Fisex](https://github.com/Academia-de-Fisica-Experimental-IN)
 - ⚡ Fun fact: **I use Arch BTW, Hyprland, Neovim, and I like Mecha**
 - 😊 Follow Fisex on [Instagram](https://instagram.com/fisicaexp.in)
-- 🤯 I'm bored with classes
+- 🤯 I like to tinker with Arduinos
 - 😝 My playlist for coding: [Alt](https://open.spotify.com/playlist/217GRfBpH3XssarZblg6OQ)
 
 <br clear="both"/>
