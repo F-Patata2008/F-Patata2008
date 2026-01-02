@@ -6,7 +6,7 @@
 
 - 🔭 I’m an **Institutano (Gen 2025)**
 - 🙃 Mechon **Ingenieria U-Chile**
-- 🌱 I’m currently learning **Competitive Programming**
+- 🌱 I’m currently doing **Competitive Programming**
 - 😎 I maintain my [DotFiles](https://github.com/F-Patata2008/DotFiles-New)
 - 👽 I'm also a member of [Fisex](https://github.com/Academia-de-Fisica-Experimental-IN)
 - ⚡ Fun fact: **I use Arch BTW, Hyprland, Neovim, and I like Mecha**
