@@ -4,7 +4,8 @@
 <!-- Asegúrate de que la carpeta 'images' exista en tu repo -->
 <img src="images/Patata2.gif" alt="A cool gif" align="right" width="150" />
 
-- 🔭 I’m an **Ex-Institutano (Gen 2025, last all-male Gen)**
+- 🔭 I’m an **Institutano (Gen 2025)**
+- 🙃 Mechon **Ingenieria U-Chile**
 - 🌱 I’m currently learning **Competitive Programming**
 - 😎 I maintain my [DotFiles](https://github.com/F-Patata2008/DotFiles-New)
 - 👽 I'm also a member of [Fisex](https://github.com/Academia-de-Fisica-Experimental-IN)
